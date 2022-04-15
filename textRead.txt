@@ -1,0 +1,12 @@
+3
+java reading files
+line two
+line three
+
+mais uma linha
+
+
+asdsadasdsa
+
+
+final
