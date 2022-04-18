@@ -1,3 +1,5 @@
+# learning Java again...
+java Basics - a folder with all the basics of Java language
 
-# test postgres with
-https://postgresapp.com/
+restApi - folder with restApi Example with postgres and Hybernate
+
